@@ -1,0 +1,23 @@
+{
+  "name": "configurable-smartcontract",
+  "version": "1.0.0",
+  "description": "Axioms:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyperledgendary/configurable-smartcontract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyperledgendary/configurable-smartcontract/issues"
+  },
+  "homepage": "https://github.com/hyperledgendary/configurable-smartcontract#readme",
+  "dependencies": {
+    "fabric-contract-api": "^2.2.3",
+    "fabric-shim": "^2.2.3"
+  }
+}
